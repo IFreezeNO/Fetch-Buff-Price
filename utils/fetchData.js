@@ -16,12 +16,18 @@ const fetchData = (url) => {
       console.log(
         `Status: ${res.data.code}. ${data.page_num}/${data.total_page}`
       );
+      console.log()
+
       for (let i = 0; i < data.items.length; i++) {
         arrPrices.push({
-          name: data.items[i].market_hash_name,
-          price: `${parseFloat(data.items[i].quick_price / config.conversion_rate).toFixed(2)}`,
-          steam_market_url: data.items[i].steam_market_url,
-          has_history_on_buff : data.items[i].has_buff_price_history
+          id : data.items[i].id,
+          name : data.items[i].namemarket_hash_name,
+          price : `${parseFloat(data.items[i].quick_price / config.conversion_rate).toFixed(2)}`,
+          steam_market_url : data.items[i].steam_market_url,
+          weapon_type : data.items[1].goods_info.info.tags.type.localized_name,
+          rarity : data.items[1].goods_info.info.tags.rarity.localized_name,
+          quality : data.items[1].goods_info.info.tags.exterior.localized_name,
+          class : data.items[1].goods_info.info.tags.type.localized_name
         });
       }
       if (data.page_num === data.total_page) {
