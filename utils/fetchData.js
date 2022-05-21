@@ -20,7 +20,7 @@ const fetchData = (url) => {
       for (let i = 0; i < data.items.length; i++) {
         arrPrices.push({
           id : data.items[i].id,
-          name : data.items[i].short_name,
+          name : data.items[i].market_hash_name,
           price : `${parseFloat(data.items[i].quick_price / config.conversion_rate).toFixed(2)}`,
           steam_market_url : data.items[i].steam_market_url,
           weapon_type : data.items[1].goods_info.info.tags.type?.localized_name,
