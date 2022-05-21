@@ -1,0 +1,962 @@
+[
+    {
+        "name": "R8 Revolver | Skull Crusher (Battle-Scarred)",
+        "price": "0.98",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Skull%20Crusher%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "USP-S | Cyrex (Factory New)",
+        "price": "2.10",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Cyrex%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Hyper Beast (Minimal Wear)",
+        "price": "33.19",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Hyper%20Beast%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MAC-10 | Neon Rider (Factory New)",
+        "price": "6.64",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Neon%20Rider%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Dual Berettas | Balance (Minimal Wear)",
+        "price": "0.88",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Dual%20Berettas%20%7C%20Balance%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "SCAR-20 | Torn (Factory New)",
+        "price": "0.36",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/SCAR-20%20%7C%20Torn%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "G3SG1 | Scavenger (Field-Tested)",
+        "price": "0.35",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Scavenger%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ UMP-45 | Corporal (Field-Tested)",
+        "price": "0.22",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20UMP-45%20%7C%20Corporal%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Negev | Terrain (Minimal Wear)",
+        "price": "0.44",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Negev%20%7C%20Terrain%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Negev | Terrain (Factory New)",
+        "price": "0.78",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Negev%20%7C%20Terrain%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "SSG 08 | Abyss (Minimal Wear)",
+        "price": "0.55",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Abyss%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Crimson Tsunami (Battle-Scarred)",
+        "price": "0.60",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Crimson%20Tsunami%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Music Kit | Hundredth, FREE",
+        "price": "0.98",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Music%20Kit%20%7C%20Hundredth%2C%20FREE",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Stone Cold (Battle-Scarred)",
+        "price": "0.81",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Stone%20Cold%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Karambit | Marble Fade (Factory New)",
+        "price": "801.55",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Karambit%20%7C%20Marble%20Fade%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Flip Knife | Marble Fade (Factory New)",
+        "price": "271.33",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Flip%20Knife%20%7C%20Marble%20Fade%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Elite Build (Field-Tested)",
+        "price": "0.90",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Elite%20Build%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Spectrum 2 Case",
+        "price": "0.48",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Spectrum%202%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Cyrex (Factory New)",
+        "price": "21.25",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Cyrex%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Gamma Case",
+        "price": "0.64",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Gamma%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Gamma 2 Case",
+        "price": "0.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Gamma%202%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AWP | Wildfire (Field-Tested)",
+        "price": "39.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AWP%20%7C%20Wildfire%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Hand Wraps | Cobalt Skulls (Field-Tested)",
+        "price": "369.47",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Hand%20Wraps%20%7C%20Cobalt%20Skulls%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "P2000 | Obsidian (Well-Worn)",
+        "price": "0.44",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/P2000%20%7C%20Obsidian%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | PENTA Sports  | Katowice 2015",
+        "price": "4.01",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20PENTA%20Sports%20%20%7C%20Katowice%202015",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "USP-S | Check Engine (Field-Tested)",
+        "price": "0.59",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Check%20Engine%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "P90 | Sunset Lily (Battle-Scarred)",
+        "price": "5.64",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/P90%20%7C%20Sunset%20Lily%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MP9 | Pandora's Box (Factory New)",
+        "price": "59.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MP9%20%7C%20Pandora%27s%20Box%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Redline (Field-Tested)",
+        "price": "10.43",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Redline%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Clutch Case",
+        "price": "0.23",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Clutch%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | Natus Vincere (Gold) | Antwerp 2022",
+        "price": "37.88",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Natus%20Vincere%20%28Gold%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Glock-18 | Gamma Doppler (Battle-Scarred)",
+        "price": "6.73",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Gamma%20Doppler%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Dusk Ruins (Field-Tested)",
+        "price": "4.29",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Dusk%20Ruins%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Classic Knife | Safari Mesh (Well-Worn)",
+        "price": "74.89",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Classic%20Knife%20%7C%20Safari%20Mesh%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Souvenir Sawed-Off | Brake Light (Factory New)",
+        "price": "0.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Souvenir%20Sawed-Off%20%7C%20Brake%20Light%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "USP-S | Para Green (Field-Tested)",
+        "price": "2.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Para%20Green%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Nova | Antique (Factory New)",
+        "price": "17.06",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Nova%20%7C%20Antique%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MAC-10 | Curse (Field-Tested)",
+        "price": "3.52",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Curse%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Predator (Field-Tested)",
+        "price": "9.17",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Predator%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Tec-9 | Blast From the Past (Field-Tested)",
+        "price": "4.30",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Blast%20From%20the%20Past%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Connexion (Field-Tested)",
+        "price": "0.31",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Connexion%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "FAMAS | Mecha Industries (Factory New)",
+        "price": "3.95",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Mecha%20Industries%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Specialist Gloves | Tiger Strike (Field-Tested)",
+        "price": "552.32",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Specialist%20Gloves%20%7C%20Tiger%20Strike%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Five-SeveN | Boost Protocol (Factory New)",
+        "price": "0.99",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Boost%20Protocol%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Dreams & Nightmares Case",
+        "price": "0.82",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Pinups Capsule",
+        "price": "0.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Pinups%20Capsule",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Desert Eagle | Mecha Industries (Factory New)",
+        "price": "5.09",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Mecha%20Industries%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | Spirit (Foil) | 2020 RMR",
+        "price": "0.53",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Spirit%20%28Foil%29%20%7C%202020%20RMR",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Tec-9 | Urban DDPAT (Factory New)",
+        "price": "0.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Urban%20DDPAT%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Basilisk (Minimal Wear)",
+        "price": "3.74",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Basilisk%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MAC-10 | Silver (Factory New)",
+        "price": "0.16",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MAC-10%20%7C%20Silver%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AUG | Syd Mead (Field-Tested)",
+        "price": "1.19",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AUG%20%7C%20Syd%20Mead%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | mousesports (Holo) | Berlin 2019",
+        "price": "0.31",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20mousesports%20%28Holo%29%20%7C%20Berlin%202019",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Dual Berettas | Dezastre (Well-Worn)",
+        "price": "0.74",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Dezastre%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "XM1014 | Black Tie (Factory New)",
+        "price": "1.02",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Black%20Tie%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Glock-18 | Neo-Noir (Factory New)",
+        "price": "25.70",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Neo-Noir%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "FAMAS | Teardown (Minimal Wear)",
+        "price": "0.72",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Teardown%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "G3SG1 | Polar Camo (Factory New)",
+        "price": "0.20",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/G3SG1%20%7C%20Polar%20Camo%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sir Bloody Darryl Royale | The Professionals",
+        "price": "5.51",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sir%20Bloody%20Darryl%20Royale%20%7C%20The%20Professionals",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Souvenir MAG-7 | Silver (Factory New)",
+        "price": "4.63",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Souvenir%20MAG-7%20%7C%20Silver%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sir Bloody Silent Darryl | The Professionals",
+        "price": "3.95",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sir%20Bloody%20Silent%20Darryl%20%7C%20The%20Professionals",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | JOTA (Holo) | Antwerp 2022",
+        "price": "0.52",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20JOTA%20%28Holo%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | maden (Holo) | Antwerp 2022",
+        "price": "1.37",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20maden%20%28Holo%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | arT (Glitter) | Antwerp 2022",
+        "price": "0.68",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20arT%20%28Glitter%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | JaCkz (Glitter) | Antwerp 2022",
+        "price": "0.20",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20JaCkz%20%28Glitter%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | fnx (Glitter) | Antwerp 2022",
+        "price": "0.69",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20fnx%20%28Glitter%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | sh1ro (Glitter) | Antwerp 2022",
+        "price": "0.23",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20sh1ro%20%28Glitter%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Dual Berettas | Stained (Factory New)",
+        "price": "0.26",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Dual%20Berettas%20%7C%20Stained%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Chromatic Aberration (Factory New)",
+        "price": "6.03",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Chromatic%20Aberration%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AWP | Atheris (Battle-Scarred)",
+        "price": "1.35",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AWP%20%7C%20Atheris%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Hand Wraps | Constrictor (Field-Tested)",
+        "price": "62.04",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Hand%20Wraps%20%7C%20Constrictor%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Antwerp 2022 Legends Autograph Capsule",
+        "price": "0.73",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Legends%20Autograph%20Capsule",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Glock-18 | Off World (Well-Worn)",
+        "price": "0.20",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Off%20World%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "SG 553 | Pulse (Battle-Scarred)",
+        "price": "0.85",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Pulse%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M249 | Emerald Poison Dart (Minimal Wear)",
+        "price": "0.82",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M249%20%7C%20Emerald%20Poison%20Dart%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "PP-Bizon | Bamboo Print (Factory New)",
+        "price": "2.39",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Bamboo%20Print%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Legion of Anubis (Factory New)",
+        "price": "18.04",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Legion%20of%20Anubis%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Souvenir CZ75-Auto | Silver (Factory New)",
+        "price": "0.24",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Souvenir%20CZ75-Auto%20%7C%20Silver%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+        "price": "62.32",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Survival%20Knife%20%7C%20Boreal%20Forest%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A4 | X-Ray (Minimal Wear)",
+        "price": "5.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A4%20%7C%20X-Ray%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A4 | X-Ray (Minimal Wear)",
+        "price": "5.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A4%20%7C%20X-Ray%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Music Kit | Dren, Gunman Taco Truck",
+        "price": "12.92",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Music%20Kit%20%7C%20Dren%2C%20Gunman%20Taco%20Truck",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AWP | Sun in Leo (Minimal Wear)",
+        "price": "9.51",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AWP%20%7C%20Sun%20in%20Leo%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Tuxedo (Factory New)",
+        "price": "1.54",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Tuxedo%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ M9 Bayonet | Stained (Minimal Wear)",
+        "price": "213.13",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20M9%20Bayonet%20%7C%20Stained%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Five-SeveN | Case Hardened (Battle-Scarred)",
+        "price": "5.31",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Five-SeveN%20%7C%20Case%20Hardened%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)",
+        "price": "6.00",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Rat%20Rod%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Glock-18 | Neo-Noir (Minimal Wear)",
+        "price": "38.16",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Neo-Noir%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Printstream (Minimal Wear)",
+        "price": "122.59",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Printstream%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Bloodsport (Field-Tested)",
+        "price": "39.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Bloodsport%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "PP-Bizon | Judgement of Anubis (Factory New)",
+        "price": "5.80",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/PP-Bizon%20%7C%20Judgement%20of%20Anubis%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ M4A4 | In Living Color (Minimal Wear)",
+        "price": "26.78",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20M4A4%20%7C%20In%20Living%20Color%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Negev | Power Loader (Factory New)",
+        "price": "4.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Negev%20%7C%20Power%20Loader%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Night Terror (Battle-Scarred)",
+        "price": "5.16",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Night%20Terror%20%28Battle-Scarred%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | hades (Gold) | Antwerp 2022",
+        "price": "12.21",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20hades%20%28Gold%29%20%7C%20Antwerp%202022",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "SSG 08 | Fever Dream (Field-Tested)",
+        "price": "0.29",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Fever%20Dream%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Operation Hydra Case",
+        "price": "11.26",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Operation%20Hydra%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "XM1014 | Zombie Offensive (Factory New)",
+        "price": "1.13",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/XM1014%20%7C%20Zombie%20Offensive%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "USP-S | Night Ops (Field-Tested)",
+        "price": "0.55",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Night%20Ops%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MP9 | Airlock (Factory New)",
+        "price": "4.51",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MP9%20%7C%20Airlock%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ PP-Bizon | Space Cat (Field-Tested)",
+        "price": "0.64",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20PP-Bizon%20%7C%20Space%20Cat%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Survival Knife | Scorched (Well-Worn)",
+        "price": "60.90",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Survival%20Knife%20%7C%20Scorched%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Tec-9 | Blast From the Past (Factory New)",
+        "price": "4.85",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Tec-9%20%7C%20Blast%20From%20the%20Past%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ SSG 08 | Big Iron (Field-Tested)",
+        "price": "11.23",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20SSG%2008%20%7C%20Big%20Iron%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MP9 | Rose Iron (Field-Tested)",
+        "price": "3.32",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MP9%20%7C%20Rose%20Iron%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+        "price": "8.63",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Cmdr.%20Frank%20%27Wet%20Sox%27%20Baroud%20%7C%20SEAL%20Frogman",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Name Tag",
+        "price": "0.00",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Name%20Tag",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "price": "1.91",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Mirage%20Souvenir%20Package",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Souvenir XM1014 | Elegant Vines (Factory New)",
+        "price": "1.27",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Souvenir%20XM1014%20%7C%20Elegant%20Vines%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Asiimov (Field-Tested)",
+        "price": "19.36",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "P250 | Nevermore (Field-Tested)",
+        "price": "0.30",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/P250%20%7C%20Nevermore%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "USP-S | Orange Anolis (Factory New)",
+        "price": "16.77",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Orange%20Anolis%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Glock-18 | Water Elemental (Minimal Wear)",
+        "price": "13.90",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Water%20Elemental%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ Glock-18 | Water Elemental (Factory New)",
+        "price": "26.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20Glock-18%20%7C%20Water%20Elemental%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "R8 Revolver | Fade (Factory New)",
+        "price": "9.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/R8%20Revolver%20%7C%20Fade%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "P250 | Asiimov (Minimal Wear)",
+        "price": "10.13",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/P250%20%7C%20Asiimov%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Eco (Minimal Wear)",
+        "price": "13.74",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Eco%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)",
+        "price": "13.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20AK-47%20%7C%20Blue%20Laminate%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Shadow Case",
+        "price": "0.20",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Shadow%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Enforcer | Phoenix",
+        "price": "0.46",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Enforcer%20%7C%20Phoenix",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MP5-SD | Nitro (Well-Worn)",
+        "price": "0.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MP5-SD%20%7C%20Nitro%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Neon Revolution (Field-Tested)",
+        "price": "11.50",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Neon%20Revolution%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Antwerp 2022 Challengers Autograph Capsule",
+        "price": "0.49",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Challengers%20Autograph%20Capsule",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AWP | Asiimov (Field-Tested)",
+        "price": "82.37",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AWP%20%7C%20Asiimov%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "★ Talon Knife | Tiger Tooth (Factory New)",
+        "price": "409.98",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/%E2%98%85%20Talon%20Knife%20%7C%20Tiger%20Tooth%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Leaded Glass (Field-Tested)",
+        "price": "3.97",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Leaded%20Glass%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AUG | Aristocrat (Field-Tested)",
+        "price": "0.28",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AUG%20%7C%20Aristocrat%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "P90 | Freight (Factory New)",
+        "price": "0.15",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/P90%20%7C%20Freight%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sealed Graffiti | Natus Vincere | London 2018",
+        "price": "2.84",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sealed%20Graffiti%20%7C%20Natus%20Vincere%20%7C%20London%202018",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | pashaBiceps | Krakow 2017",
+        "price": "1.59",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20pashaBiceps%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | k0nfig | Krakow 2017",
+        "price": "1.54",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20k0nfig%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | device | Krakow 2017",
+        "price": "2.40",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20device%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | allu | Krakow 2017",
+        "price": "0.63",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20allu%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | KRIMZ | Krakow 2017",
+        "price": "0.71",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20KRIMZ%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Spectrum Case",
+        "price": "0.71",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Spectrum%20Case",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Desert Eagle | Directive (Field-Tested)",
+        "price": "0.19",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Directive%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
+        "price": "10.69",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Minor%20Challengers%20with%20Flash%20Gaming%20%28Holo-Foil%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | steel | Krakow 2017",
+        "price": "0.73",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20steel%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | innocent | Krakow 2017",
+        "price": "0.65",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20innocent%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | cajunb | Krakow 2017",
+        "price": "0.97",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20cajunb%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | Zeus | Krakow 2017",
+        "price": "0.74",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Zeus%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | MSL | Krakow 2017",
+        "price": "5.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20MSL%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | JW | Krakow 2017",
+        "price": "0.96",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20JW%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | FaZe Clan | Krakow 2017",
+        "price": "0.95",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20FaZe%20Clan%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sealed Graffiti | FaZe Clan | Krakow 2017",
+        "price": "1.14",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sealed%20Graffiti%20%7C%20FaZe%20Clan%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Getaway Sally | The Professionals",
+        "price": "10.86",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Getaway%20Sally%20%7C%20The%20Professionals",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | oskar | Krakow 2017",
+        "price": "1.20",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20oskar%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | olofmeister | Krakow 2017",
+        "price": "1.48",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20olofmeister%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | Natus Vincere | Krakow 2017",
+        "price": "1.27",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Natus%20Vincere%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sticker | Edward | Krakow 2017",
+        "price": "1.11",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Edward%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Sealed Graffiti | Natus Vincere | Krakow 2017",
+        "price": "2.67",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sealed%20Graffiti%20%7C%20Natus%20Vincere%20%7C%20Krakow%202017",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Krakow 2017 Challengers Autograph Capsule",
+        "price": "17.55",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Krakow%202017%20Challengers%20Autograph%20Capsule",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "AK-47 | Asiimov (Minimal Wear)",
+        "price": "32.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Asiimov%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "M4A1-S | Night Terror (Minimal Wear)",
+        "price": "2.09",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Night%20Terror%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MAG-7 | Monster Call (Field-Tested)",
+        "price": "0.34",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Monster%20Call%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ P2000 | Acid Etched (Field-Tested)",
+        "price": "0.64",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20P2000%20%7C%20Acid%20Etched%20%28Field-Tested%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "StatTrak™ XM1014 | Black Tie (Well-Worn)",
+        "price": "0.67",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/StatTrak%E2%84%A2%20XM1014%20%7C%20Black%20Tie%20%28Well-Worn%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "MP9 | Mount Fuji (Minimal Wear)",
+        "price": "1.33",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MP9%20%7C%20Mount%20Fuji%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Galil AR | Cold Fusion (Factory New)",
+        "price": "0.29",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Cold%20Fusion%20%28Factory%20New%29",
+        "has_history_on_buff": true
+    },
+    {
+        "name": "Desert Eagle | Printstream (Minimal Wear)",
+        "price": "52.52",
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Printstream%20%28Minimal%20Wear%29",
+        "has_history_on_buff": true
+    }
+]
